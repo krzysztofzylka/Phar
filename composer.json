@@ -1,0 +1,21 @@
+{
+  "name": "krzysztofzylka/phar",
+  "description": "Phar library",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Krzysztofzylka\\Phar\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Krzysztof Zylka",
+      "email": "krzysztofzylka@yahoo.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.2"
+  }
+}
